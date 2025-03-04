@@ -1,8 +1,7 @@
 import streamlit as st
 
 st.set_page_config(page_title= "Growth Mindset App", project_icon="🧠")
-st.tittle("Growth Mindset App🛠️")
-
+st.title("Growth Mindset App🛠️")
 
 st.header("Ready to grow? 🚀")
 st.write("Welcome to the Growth Mindset App! This app is designed to help you develop a growth mindset, which is the belief that you can improve your abilities through hard work and dedication. Research shows that people with a growth mindset are more likely to succeed in school, work, and life. So let's get started!")
