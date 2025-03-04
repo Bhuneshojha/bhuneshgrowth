@@ -1,8 +1,7 @@
 import streamlit as st
 
-
 st.set_page_config(page_title= "Growth Mindset App", project_icon="🧠")
-st.page.tittle("Growth Mindset App🛠️")
+st.tittle("Growth Mindset App🛠️")
 
 
 st.header("Ready to grow? 🚀")
